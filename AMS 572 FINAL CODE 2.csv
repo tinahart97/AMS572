@@ -1,0 +1,189 @@
+﻿Name,Age,Nationality,Zone,Club,Value,Preferred Foot,Wage,Wage Missing,New_Position,Height,Weight
+K. Mbappé,19,France,2,Paris Saint-Germain,81000000,Right,100000,100000,Midfield,5'10,161.00
+M. Reus,29,Germany,2,Borussia Dortmund,43500000,Right,100000,100000,Midfield,5'11,157.00
+Diego Costa,29,Spain,2,Atlético Madrid,38500000,Right,100000,100000,Forward,6'2,190.00
+R. Nainggolan,30,Belgium,2,Inter,35500000,Right,105000,105000,Midfield,5'9,170.00
+D. Sánchez,22,Colombia,1,Tottenham Hotspur,34000000,Right,105000,NA,Defense,6'2,174.00
+M. Perin,25,Italy,2,Juventus,29500000,Right,105000,105000,Keeper,6'2,170.00
+José Callejón,31,Spain,2,Napoli,27500000,Right,105000,105000,Midfield,5'10,161.00
+E. Bailly,24,Ivory Coast,2,Manchester United,21000000,Right,105000,105000,Defense,6'1,170.00
+E. Lamela,26,Argentina,1,Tottenham Hotspur,21000000,Left,105000,105000,Midfield,6'0,176.00
+B. Mendy,23,France,2,Manchester City,20000000,Left,105000,105000,Defense,6'1,187.00
+M. Batshuayi,24,Belgium,2,Valencia CF,19500000,Right,105000,105000,Forward,6'1,172.00
+C. Tosun,27,Turkey,3,Everton,14500000,Right,105000,105000,Forward,6'0,172.00
+T. Walcott,29,England,2,Everton,12500000,Right,105000,105000,Midfield,5'9,150.00
+V. Moses,27,Nigeria,2,Chelsea,11000000,Right,105000,105000,Forward,5'10,170.00
+De Tomás,23,Spain,2,Rayo Vallecano,11000000,Right,105000,105000,Forward,5'11,159.00
+Kiko Casilla,31,Spain,2,Real Madrid,7500000,Right,105000,105000,Keeper,6'3,190.00
+D. Alaba,26,Austria,2,FC Bayern München,38000000,Left,110000,110000,Defense,5'11,168.00
+I. Perišić,29,Croatia,2,Inter,37500000,Right,110000,110000,Midfield,6'1,176.00
+Felipe Anderson,25,Brazil,1,West Ham United,31500000,Right,110000,110000,Midfield,5'9,154.00
+S. Handanovič,33,Slovenia,2,Inter,30000000,Right,110000,110000,Keeper,6'4,203.00
+F. Bernardeschi,24,Italy,2,Juventus,29500000,Left,110000,110000,Midfield,6'1,170.00
+M. Rashford,20,England,2,Manchester United,27000000,Right,110000,110000,Forward,6'1,154.00
+A. Rüdiger,25,Germany,2,Chelsea,22500000,Right,110000,110000,Defense,6'3,187.00
+Marcos Llorente,23,Spain,2,Real Madrid,16000000,Right,110000,110000,Midfield,6'0,161.00
+A. Robben,34,Netherlands,2,FC Bayern München,15500000,Left,110000,NA,Midfield,5'11,176.00
+A. Lallana,30,England,2,Liverpool,13500000,Right,110000,110000,Midfield,5'10,161.00
+D. Drinkwater,28,England,2,Chelsea,12500000,Right,110000,110000,Midfield,5'10,179.00
+Danilo,26,Brazil,1,Manchester City,12000000,Right,110000,NA,Defense,6'0,172.00
+P. Jones,26,England,2,Manchester United,12000000,Right,110000,110000,Defense,6'1,157.00
+A. Young,32,England,2,Manchester United,7000000,Right,110000,110000,Defense,5'9,143.00
+T. Vermaelen,32,Belgium,2,FC Barcelona,5000000,Left,110000,110000,Defense,6'0,176.00
+C. Immobile,28,Italy,2,Lazio,52000000,Right,115000,115000,Forward,6'1,187.00
+K. Koulibaly,27,Senegal,2,Napoli,51000000,Right,115000,115000,Defense,6'2,196.00
+D. Alli,22,England,2,Tottenham Hotspur,42500000,Right,115000,NA,Midfield,6'2,176.00
+Alisson,25,Brazil,1,Liverpool,36500000,Right,115000,115000,Keeper,6'3,201.00
+Suso,24,Spain,2,Milan,33000000,Left,115000,115000,Forward,5'9,154.00
+Lucas Moura,25,Brazil,1,Tottenham Hotspur,31000000,Right,115000,NA,Midfield,5'9,154.00
+E. Džeko,32,Bosnia Herzegovina,2,Roma,30500000,Right,115000,115000,Forward,6'4,185.00
+J. Boateng,29,Germany,2,FC Bayern München,30000000,Right,115000,115000,Defense,6'4,198.00
+B. Leno,26,Germany,2,Arsenal,27000000,Right,115000,NA,Keeper,6'3,183.00
+Falcao,32,Colombia,1,AS Monaco,25000000,Right,115000,115000,Forward,5'10,159.00
+S. Mustafi,26,Germany,2,Arsenal,22500000,Right,115000,115000,Defense,6'0,181.00
+G. Bonaventura,28,Italy,2,Milan,22000000,Right,115000,115000,Midfield,5'11,165.00
+G. Xhaka,25,Switzerland,2,Arsenal,22000000,Left,115000,115000,Midfield,6'1,181.00
+Odriozola,22,Spain,2,Real Madrid,18500000,Right,115000,NA,Defense,5'9,146.00
+D. Lovren,28,Croatia,2,Liverpool,16000000,Right,115000,115000,Defense,6'2,185.00
+L. Koscielny,32,France,2,Arsenal,12500000,Right,115000,115000,Defense,6'1,165.00
+Munir,22,Spain,2,FC Barcelona,12500000,Left,115000,115000,Forward,5'9,152.00
+M. Rojo,28,Argentina,1,Manchester United,10000000,Left,115000,115000,Defense,6'2,176.00
+Fabinho,24,Brazil,1,Liverpool,34000000,Right,120000,NA,Midfield,6'2,172.00
+N. Keïta,23,Guinea,1,Liverpool,34000000,Right,120000,120000,Midfield,5'8,141.00
+Dani Ceballos,21,Spain,2,Real Madrid,25000000,Right,120000,NA,Midfield,5'10,154.00
+M. Dembélé,30,Belgium,2,Tottenham Hotspur,24000000,Left,120000,120000,Midfield,6'1,181.00
+M. Arnautović,29,Austria,2,West Ham United,22000000,Right,120000,120000,Forward,6'4,183.00
+Denis Suárez,24,Spain,2,FC Barcelona,17500000,Right,120000,NA,Midfield,5'9,152.00
+J. Milner,32,England,2,Liverpool,13500000,Right,120000,120000,Midfield,5'9,154.00
+F. Delph,28,England,2,Manchester City,11500000,Left,120000,120000,Defense,5'9,172.00
+M. Fellaini,30,Belgium,2,Manchester United,11500000,Right,120000,120000,Midfield,6'4,187.00
+A. Valencia,32,Ecuador,1,Manchester United,10000000,Right,120000,NA,Midfield,5'11,183.00
+A. Turan,31,Turkey,3,Medipol Başakşehir FK,7500000,Right,120000,NA,Midfield,5'10,168.00
+M. Hamšík,30,Slovakia,2,Napoli,46500000,Right,125000,125000,Midfield,6'0,174.00
+D. Godín,32,Uruguay,1,Atlético Madrid,44000000,Right,125000,125000,Defense,6'2,172.00
+Ederson,24,Brazil,1,Manchester City,41500000,Left,125000,125000,Keeper,6'2,190.00
+H. Son,25,Korea Republic,3,Tottenham Hotspur,37000000,Right,125000,125000,Midfield,6'0,143.00
+Arthur,21,Brazil,1,FC Barcelona,32500000,Right,125000,125000,Midfield,5'7,161.00
+W. Szczęsny,28,Poland,2,Juventus,32000000,Right,125000,NA,Keeper,6'5,198.00
+A. Di María,30,Argentina,1,Paris Saint-Germain,29500000,Left,125000,125000,Midfield,5'11,152.00
+J. Stones,24,England,2,Manchester City,28500000,Right,125000,125000,Defense,6'2,154.00
+G. Sigurðsson,28,Iceland,2,Everton,22500000,Right,125000,125000,Midfield,6'1,181.00
+I. Gueye,28,Senegal,2,Everton,21000000,Right,125000,NA,Midfield,5'9,146.00
+Nélson Semedo,24,Portugal,2,FC Barcelona,20000000,Right,125000,125000,Defense,5'10,148.00
+J. Henderson,28,England,2,Liverpool,18000000,Right,125000,125000,Midfield,6'0,176.00
+D. Sturridge,28,England,2,Liverpool,15500000,Left,125000,125000,Forward,5'11,168.00
+M. Icardi,25,Argentina,1,Inter,64500000,Right,130000,130000,Forward,5'11,165.00
+Thiago,27,Spain,2,FC Bayern München,45500000,Right,130000,130000,Midfield,5'9,154.00
+Gabriel Jesus,21,Brazil,1,Manchester City,41000000,Right,130000,130000,Forward,5'9,161.00
+M. Neuer,32,Germany,2,FC Bayern München,38000000,Right,130000,130000,Keeper,6'4,203.00
+A. Ramsey,27,Wales,2,Arsenal,25000000,Right,130000,130000,Midfield,6'0,168.00
+Marcos Alonso,27,Spain,2,Chelsea,24000000,Left,130000,130000,Defense,6'2,192.00
+G. Wijnaldum,27,Netherlands,2,Liverpool,23000000,Right,130000,130000,Midfield,5'9,152.00
+André Gomes,24,Portugal,2,Everton,19500000,Right,130000,NA,Midfield,6'2,185.00
+X. Shaqiri,26,Switzerland,2,Liverpool,19000000,Left,130000,130000,Midfield,5'7,159.00
+David Luiz,31,Brazil,1,Chelsea,17500000,Right,130000,130000,Defense,6'2,190.00
+C. Smalling,28,England,2,Manchester United,16000000,Right,130000,130000,Defense,6'4,179.00
+M. Verratti,25,Italy,2,Paris Saint-Germain,55000000,Right,135000,135000,Midfield,5'5,132.00
+D. Mertens,31,Belgium,2,Napoli,45000000,Right,135000,135000,Forward,5'7,134.00
+T. Müller,28,Germany,2,FC Bayern München,45000000,Right,135000,135000,Midfield,6'1,165.00
+A. Laporte,24,France,2,Manchester City,34000000,Left,135000,135000,Defense,6'2,187.00
+Morata,25,Spain,2,Chelsea,28500000,Right,135000,NA,Forward,6'2,187.00
+C. Lenglet,23,France,2,FC Barcelona,26000000,Left,135000,NA,Defense,6'1,179.00
+J. Cillessen,29,Netherlands,2,FC Barcelona,18000000,Right,135000,135000,Keeper,6'1,183.00
+Malcom,21,Brazil,1,FC Barcelona,31500000,Left,140000,NA,Forward,5'8,163.00
+Fred,25,Brazil,1,Manchester United,26500000,Left,140000,140000,Midfield,5'7,141.00
+J. Lingard,25,England,2,Manchester United,26500000,Right,140000,140000,Midfield,5'9,137.00
+Sokratis,30,Greece,2,Arsenal,23000000,Right,140000,140000,Defense,6'1,187.00
+Cesc Fàbregas,31,Spain,2,Chelsea,22000000,Right,140000,140000,Midfield,5'10,170.00
+Pedro,30,Spain,2,Chelsea,21000000,Right,140000,140000,Forward,5'7,143.00
+O. Giroud,31,France,2,Chelsea,20000000,Left,140000,140000,Forward,6'4,203.00
+Mariano,24,Dominican Republic,1,Real Madrid,20000000,Right,140000,140000,Forward,5'11,168.00
+Ander Herrera,28,Spain,2,Manchester United,17500000,Right,140000,140000,Midfield,6'0,154.00
+A. Griezmann,27,France,2,Atlético Madrid,78000000,Left,145000,NA,Midfield,5'9,161.00
+B. Matuidi,31,France,2,Juventus,26000000,Left,145000,145000,Midfield,5'11,165.00
+H. Mkhitaryan,29,Armenia,2,Arsenal,25500000,Right,145000,145000,Midfield,5'10,165.00
+T. Alderweireld,29,Belgium,2,Tottenham Hotspur,39000000,Right,150000,150000,Defense,6'1,179.00
+H. Lloris,31,France,2,Tottenham Hotspur,36000000,Left,150000,150000,Keeper,6'2,181.00
+J. Cuadrado,30,Colombia,1,Juventus,29500000,Right,150000,150000,Midfield,5'10,159.00
+O. Dembélé,21,France,2,FC Barcelona,40000000,Left,155000,NA,Forward,5'10,148.00
+Jorginho,26,Italy,2,Chelsea,38000000,Right,155000,155000,Midfield,5'11,148.00
+J. Vertonghen,31,Belgium,2,Tottenham Hotspur,34000000,Left,155000,155000,Defense,6'2,190.00
+M. Hummels,29,Germany,2,FC Bayern München,46000000,Right,160000,NA,Defense,6'3,203.00
+Alex Sandro,27,Brazil,1,Juventus,36500000,Left,160000,160000,Defense,5'11,176.00
+S. Khedira,31,Germany,2,Juventus,33000000,Right,160000,160000,Midfield,6'2,198.00
+L. Bonucci,31,Italy,2,Juventus,30000000,Right,160000,160000,Defense,6'3,187.00
+M. Benatia,31,Morocco,2,Juventus,30000000,Right,160000,NA,Defense,6'2,207.00
+M. Mandžukić,32,Croatia,2,Juventus,25000000,Right,160000,160000,Forward,6'3,187.00
+Juan Mata,30,Spain,2,Manchester United,24500000,Left,160000,NA,Midfield,5'7,139.00
+L. Insigne,27,Italy,2,Napoli,62000000,Right,165000,165000,Forward,5'4,130.00
+V. van Dijk,26,Netherlands,2,Liverpool,44500000,Right,165000,165000,Defense,6'4,203.00
+A. Martial,22,France,2,Manchester United,42500000,Right,165000,NA,Forward,6'0,168.00
+M. Kovačić,24,Croatia,2,Chelsea,35000000,Right,165000,NA,Midfield,5'9,172.00
+Rafinha,25,Brazil,1,FC Barcelona,29500000,Left,165000,165000,Midfield,5'9,157.00
+K. Walker,28,England,2,Manchester City,24500000,Right,165000,165000,Defense,6'0,154.00
+Thiago Silva,33,Brazil,1,Paris Saint-Germain,24000000,Right,165000,165000,Defense,6'0,181.00
+N. Matić,29,Serbia,2,Manchester United,24000000,Left,165000,165000,Midfield,6'4,187.00
+N. Otamendi,30,Argentina,1,Manchester City,28500000,Right,170000,170000,Defense,6'0,179.00
+Sergi Roberto,26,Spain,2,FC Barcelona,26500000,Right,170000,170000,Defense,5'10,150.00
+V. Kompany,32,Belgium,2,Manchester City,22000000,Right,170000,170000,Defense,6'3,187.00
+Douglas Costa,27,Brazil,1,Juventus,46500000,Left,175000,175000,Midfield,5'8,154.00
+Azpilicueta,28,Spain,2,Chelsea,35000000,Right,175000,175000,Defense,5'10,168.00
+I. Gündoğan,27,Germany,2,Manchester City,32000000,Right,175000,175000,Midfield,5'11,176.00
+Willian,29,Brazil,1,Chelsea,30500000,Right,175000,175000,Forward,5'9,172.00
+Bernardo Silva,23,Portugal,2,Manchester City,59500000,Left,180000,180000,Forward,5'8,141.00
+A. Lacazette,27,France,2,Arsenal,45000000,Right,180000,180000,Forward,5'9,161.00
+M. Pjanić,28,Bosnia Herzegovina,2,Juventus,44000000,Right,180000,180000,Midfield,5'10,159.00
+Nacho Fernández,28,Spain,2,Real Madrid,24500000,Right,180000,180000,Defense,5'11,168.00
+Carvajal,26,Spain,2,Real Madrid,31500000,Right,185000,NA,Defense,5'8,161.00
+Fernandinho,33,Brazil,1,Manchester City,18000000,Right,185000,185000,Midfield,5'10,148.00
+M. Özil,29,Germany,2,Arsenal,43500000,Left,190000,190000,Midfield,5'11,168.00
+L. Sané,22,Germany,2,Manchester City,61000000,Left,195000,NA,Forward,6'0,165.00
+R. Sterling,23,England,2,Manchester City,56500000,Right,195000,195000,Forward,5'7,152.00
+Roberto Firmino,26,Brazil,1,Liverpool,53000000,Right,195000,195000,Midfield,5'11,168.00
+S. Mané,26,Senegal,2,Liverpool,52000000,Right,195000,NA,Midfield,5'9,152.00
+K. Navas,31,Costa Rica,1,Real Madrid,30500000,Right,195000,195000,Keeper,6'1,176.00
+E. Cavani,31,Uruguay,1,Paris Saint-Germain,60000000,Right,200000,200000,Forward,6'1,170.00
+P. Dybala,24,Argentina,1,Juventus,89000000,Left,205000,205000,Forward,5'10,165.00
+H. Kane,24,England,2,Tottenham Hotspur,83500000,Right,205000,205000,Forward,6'2,196.00
+R. Lewandowski,29,Poland,2,FC Bayern München,77000000,Right,205000,205000,Forward,6'0,176.00
+C. Eriksen,26,Denmark,2,Tottenham Hotspur,73500000,Right,205000,205000,Midfield,5'11,168.00
+S. Umtiti,24,France,2,FC Barcelona,57000000,Left,205000,205000,Defense,6'0,165.00
+R. Mahrez,27,Algeria,2,Manchester City,40500000,Left,205000,NA,Forward,5'10,148.00
+Lucas Vázquez,27,Spain,2,Real Madrid,27000000,Right,205000,205000,Forward,5'8,154.00
+A. Vidal,31,Chile,1,FC Barcelona,26000000,Right,205000,NA,Midfield,5'11,165.00
+P. Pogba,25,France,2,Manchester United,64000000,Right,210000,210000,Midfield,6'4,185.00
+R. Varane,25,France,2,Real Madrid,50000000,Right,210000,210000,Defense,6'3,179.00
+Marco Asensio,22,Spain,2,Real Madrid,54000000,Left,215000,NA,Forward,6'0,168.00
+A. Sánchez,29,Chile,1,Manchester United,37500000,Right,215000,215000,Forward,5'7,163.00
+G. Chiellini,33,Italy,2,Juventus,27000000,Left,215000,215000,Defense,6'2,187.00
+N. Kanté,27,France,2,Chelsea,63000000,Right,225000,225000,Midfield,5'6,159.00
+R. Lukaku,25,Belgium,2,Manchester United,62500000,Left,230000,NA,Forward,6'3,207.00
+Paulinho,29,Brazil,1,Guangzhou Evergrande Taobao FC,37000000,Right,235000,235000,Midfield,6'0,157.00
+M. ter Stegen,26,Germany,2,FC Barcelona,58000000,Right,240000,240000,Keeper,6'2,187.00
+T. Courtois,26,Belgium,2,Real Madrid,53500000,Left,240000,240000,Keeper,6'6,212.00
+K. Benzema,30,France,2,Real Madrid,37000000,Right,240000,NA,Forward,6'1,179.00
+Piqué,31,Spain,2,FC Barcelona,34000000,Right,240000,NA,Defense,6'4,187.00
+G. Higuaín,30,Argentina,1,Milan,57000000,Right,245000,245000,Forward,6'1,196.00
+Jordi Alba,29,Spain,2,FC Barcelona,38000000,Left,250000,250000,Defense,5'7,150.00
+M. Salah,26,Egypt,2,Liverpool,69500000,Left,255000,NA,Midfield,5'9,157.00
+De Gea,27,Spain,2,Manchester United,72000000,Right,260000,260000,Keeper,6'4,168.00
+I. Rakitić,30,Croatia,2,FC Barcelona,46500000,Right,260000,260000,Midfield,6'0,172.00
+P. Aubameyang,29,Gabon,2,Arsenal,59000000,Right,265000,265000,Midfield,6'2,176.00
+David Silva,32,Spain,2,Manchester City,60000000,Left,285000,NA,Midfield,5'8,148.00
+Casemiro,26,Brazil,1,Real Madrid,59500000,Right,285000,285000,Midfield,6'1,185.00
+Marcelo,30,Brazil,1,Real Madrid,43000000,Left,285000,285000,Defense,5'9,176.00
+Neymar Jr,26,Brazil,1,Paris Saint-Germain,118500000,Right,290000,290000,Forward,5'9,150.00
+S. Agüero,30,Argentina,1,Manchester City,64500000,Right,300000,NA,Forward,5'8,154.00
+Isco,26,Spain,2,Real Madrid,73500000,Right,315000,NA,Forward,5'9,174.00
+J. Rodríguez,26,Colombia,1,FC Bayern München,69500000,Left,315000,315000,Midfield,5'11,172.00
+Sergio Busquets,29,Spain,2,FC Barcelona,51500000,Right,315000,315000,Midfield,6'2,168.00
+E. Hazard,27,Belgium,2,Chelsea,93000000,Right,340000,NA,Forward,5'8,163.00
+Coutinho,26,Brazil,1,FC Barcelona,69500000,Right,340000,340000,Forward,5'8,150.00
+K. De Bruyne,27,Belgium,2,Manchester City,102000000,Right,355000,355000,Midfield,5'11,154.00
+T. Kroos,28,Germany,2,Real Madrid,76500000,Right,355000,355000,Midfield,6'0,168.00
+G. Bale,28,Wales,2,Real Madrid,60000000,Left,355000,NA,Forward,6'1,181.00
+Sergio Ramos,32,Spain,2,Real Madrid,51000000,Right,380000,380000,Defense,6'0,181.00
+Cristiano Ronaldo,33,Portugal,2,Juventus,77000000,Right,405000,405000,Forward,6'2,183.00
+L. Modrić,32,Croatia,2,Real Madrid,67000000,Right,420000,420000,Midfield,5'8,146.00
+L. Suárez,31,Uruguay,1,FC Barcelona,80000000,Right,455000,455000,Forward,6'0,190.00
+L. Messi,31,Argentina,1,FC Barcelona,110500000,Left,565000,565000,Forward,5'7,159.00
